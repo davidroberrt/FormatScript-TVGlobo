@@ -1,0 +1,23 @@
+Licença de Software "FORMAT SCRIPT" p/ Afiliadas Rede Globo
+
+Direitos autorais (c) 2023 David Robert de Lima Gomes
+
+Este software é protegido por direitos autorais e é fornecido para uso comercial e não comercial. A distribuição e uso deste software estão sujeitos às seguintes condições:
+
+1. Você pode utilizar este software para fins pessoais, educacionais, comerciais e não comerciais, desde que mantenha intactos todos os avisos de direitos autorais e esta licença em todas as cópias.
+
+2. Não é permitido modificar, adaptar, criar trabalhos derivados, desmontar, fazer engenharia reversa ou tentar alterar de alguma forma o código-fonte deste software.
+
+3. Você pode utilizar este software para os propósitos descritos, sem restrições adicionais.
+
+4. A venda deste software, ou qualquer parte dele, é estritamente proibida.
+
+5. Qualquer distribuição deste software deve ser acompanhada pela versão completa e não modificada desta licença.
+
+6. O autor não assume nenhuma responsabilidade por quaisquer consequências resultantes do uso deste software.
+
+Este software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas. O autor não será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso deste software.
+
+Ao utilizar este software, você concorda com os termos e condições desta licença.
+
+28/08/2023
