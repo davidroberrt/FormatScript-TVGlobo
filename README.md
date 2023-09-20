@@ -10,7 +10,7 @@ Sua função é formatar as planilhas dos roteiros da Globo, padronizando e dife
 
 - **Desenvolvedor:** David Robert de Lima Gomes
 - **Software:** Versão 1.2 Gratuito
-- **Tecnologias:** Python 3.x | GUI Tkinter
+- **Tecnologias:** Python 3.x | GUI Tkinter + Bibliotecas openpyxl
 - **Github:** [davidroberrt](https://github.com/davidroberrt)
 - **LinkedIn:** [davidroberrt](https://linkedin.com/in/davidroberrt)
 - **Email:** davidrobert.info@gmail.com
