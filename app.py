@@ -6,7 +6,7 @@
     além de realizar ajustes nos roteiros, como remover espaços em branco.
     
     Desenvolvedor: David Robert
-    Software: Versão 1.1
+    Software: Versão 1.2
     Tecnologias: Python 3.x | GUI Tkinter 
     Github: davidroberrt
     LinkedIn: davidroberrt
