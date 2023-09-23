@@ -139,7 +139,7 @@ process_button.place(x=195, y=320)
 menu_bar = tk.Menu(root)
 root.config(menu=menu_bar)
 
-# Menu de temas
+# Menu de configurações para modo noturno e modo claro
 def change_background_light():
     bg_image_light = Image.open("background_light.png")
     bg_photo_light = ImageTk.PhotoImage(bg_image_light)
