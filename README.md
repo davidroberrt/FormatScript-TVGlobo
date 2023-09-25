@@ -2,7 +2,7 @@
 
 O software "FORMAT SCRIPT" é uma ferramenta desenvolvida por David Robert para as emissoras afiliadas da Rede Globo de Televisão, especificamente para o Setor de Programação da TV Paraíba e TV Cabo Branco.
 
-Sua função é formatar as planilhas dos roteiros da Globo, padronizando e diferenciando com cores os materiais da rede e locais, além de realizar ajustes nos roteiros, como remover espaços em branco.
+Sua função é formatar as planilhas dos roteiros da Globo, padronizando e diferenciando com cores os materiais da rede e locais, além de realizar ajustes nos roteiros, como remover espaços em branco, facilitando e otimizando tempo no trabalho dos coordenadores de programação.
 
 
 
